@@ -28,3 +28,8 @@
 + Датчик AHT20
 + Дисплей SSD1306_128x32
 + Плата зарядки аккумулятора TP4056 
+
+Пример работы на thingspeak.com:
+</br>
+<img src="Files/Screenshot_20230320-152139.png" alt="drawing" width="200"/>
+<img src="Files/Screenshot_20230320-152159.png" alt="drawing" width="200"/>
