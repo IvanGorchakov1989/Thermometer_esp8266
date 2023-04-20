@@ -16,6 +16,8 @@
 <img src="Files/IMG_20230319_174854_1.jpg" alt="drawing" width="200"/>
 <img src="Files/IMG_20230319_174858.jpg" alt="drawing" width="200"/>
 
+Корпус был напечатан на 3D принтере.</br>
+
 Схема устройства:
 </br>
 <img src="Files/Scheme.png" alt="drawing" width="200"/>
